@@ -101,7 +101,7 @@ This query gives you the 10 stations that have the largest numbers of bikes curr
 
 ```SQL
 SELECT *
-FROM indegogo_stations_status
+FROM andyepenn.indego_station_status
 ORDER BY bikesavailable DESC
 LIMIT 10
 ```
