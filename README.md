@@ -26,5 +26,6 @@
 
 ## Recommended Readings
 
+* [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) - great resource for learning SQL skills
 * [Introduction to PostGIS](https://postgis.net/workshops/postgis-intro/)
 * [Intro to Postgis (MIT DUSPviz)](http://duspviz.mit.edu/tutorials/intro-postgis.php#well)
