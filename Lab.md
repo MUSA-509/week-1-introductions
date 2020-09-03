@@ -23,16 +23,16 @@ All data is available at: https://www.rideindego.com/about/data/
 The data is located in our class GitHub: https://github.com/MUSA-509/week-1-introductions/blob/master/data/indego_station_status.geojson
 
 I originally pulled it from Indego's [station status endpoint](http://www.rideindego.com/stations/json/).
-        
+
 Take a look at how GitHub renders it -- an interactive map! Notice that it is a [Mapbox](https://www.mapbox.com/) basemap. Toggle the map view with the data blob view to get a preview of a GeoJSON file. We will encounter GeoJSON files a lot this semester.
 
-<a href="https://github.com/MUSA-509/week-1-introductions/blob/master/data/indego_station_status.geojson"><img src="lab/github-geojson-view.png" width=640 /></a>
+<a href="https://github.com/MUSA-509/week-1-introductions/blob/master/data/indego_station_status.geojson"><img src="https://raw.githubusercontent.com/MUSA-509/week-1-introductions/master/lab_assets/github-geojson-view.png" width=640 /></a>
 
 Let's pull it into your CARTO account.
 
 1. Copy this URL: `https://raw.githubusercontent.com/MUSA-509/week-1-introductions/master/data/indego_station_status.geojson`
 1. Import the data into your CARTO account by pasting into the `upload via URL` field
-![](lab/upload-dataset-demo.gif)
+![](https://raw.githubusercontent.com/MUSA-509/week-1-introductions/master/lab_assets/upload-dataset-demo.gif)
 
 ## Exploring the dataset with some SQL
 
@@ -63,7 +63,7 @@ FROM andyepenn.indego_station_status
 
 Notice that the result is only a subset of the data.
 
-![](lab/select-query-example.png)
+![](https://raw.githubusercontent.com/MUSA-509/week-1-introductions/master/lab_assets/select-query-example.png)
 
 
 ```SQL
@@ -140,7 +140,7 @@ First, clear the queries by clicking on the CLEAR button in the lower right.
 
 Next hit "CREATE MAP". Let's make a graduated symbol map (points scaled by a value) based on a column you're interested in.
 
-![](lab/graduated-symbol-map-example.png)
+![](https://raw.githubusercontent.com/MUSA-509/week-1-introductions/master/lab_assets/graduated-symbol-map-example.png)
 
 ### Find the SQL panel
 
