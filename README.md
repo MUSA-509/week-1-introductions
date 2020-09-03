@@ -23,6 +23,9 @@
 * Email Felix your GitHub username so she can add you to the [course GitHub organization](https://github.com/MUSA-509)
 * SQL practice on Codecademy: complete `Manipulation` and `Queries` in the (free) Learn SQL course on Codecademy: <https://www.codecademy.com/learn/learn-sql>
 
+## Lab
+
+* [Lab](https://github.com/MUSA-509/week-1-introductions/blob/master/Lab.md)
 
 ## Recommended Readings
 
