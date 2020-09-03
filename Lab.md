@@ -1,8 +1,4 @@
-# MUSA 509: Geospatial Cloud Computing & Visualization
-
-Click here to follow along: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-509/lecture-1-introductions/master?filepath=Intro.ipynb)
-
-This is a Jupyter notebook, a common tool used by data scientists for exploring problems and documenting their work. They can be interactive or static, can contain text and code and pictures and more, and can be used in Python and several other languages.
+# Lab - Week 1 - Intro to (Spatial) SQL
 
 Below we demonstrate basic SQL by query results using a mapping library that works in the notebook.
 
