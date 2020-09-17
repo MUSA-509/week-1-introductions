@@ -4,7 +4,7 @@ Below we demonstrate basic SQL by query results using a mapping library that wor
 
 **Follow along by tinkering with the code! Don't be afraid to make a mistake. Remember that CMD+Z/CTRL+Z will return you to your previous edit.**
 
-We will look at bikeshare data for Philadelphia.
+We will look at Indego's bikeshare data for Philadelphia.
 
 ![](https://u626n26h74f16ig1p3pt0f2g-wpengine.netdna-ssl.com/wp-content/themes/indego/library/images/logo.png?v=2)
 
